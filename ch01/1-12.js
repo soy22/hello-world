@@ -4,4 +4,4 @@ var copyObject = function (target) {
         result[prop] = target[prop];
     }
     return result;
-};
+}; 
