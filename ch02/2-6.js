@@ -7,5 +7,4 @@ function a () {
     console.log(b);
     console.log(b);
 }
-
 a();
