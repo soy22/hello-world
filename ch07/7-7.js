@@ -1,0 +1,6 @@
+//...
+var Square = function (width) {
+    Rectangle.call(this, width, width);
+};
+Square.prototype = new Rectangle();
+//...
